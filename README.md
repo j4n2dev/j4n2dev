@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm J4N2DEV
 
-<!--
-**j4n2dev/j4n2dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linux enthusiast and BSIT student
 
-Here are some ideas to get you started:
+## 🌱 I'm currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Flutter Development and Dart
+
+## 👀 I'm interested in
+
+UI/UX design, clean architecture, and clean code
+
+## 💻 Tech Stacks
+
+![Static Badge](https://img.shields.io/badge/Java-436584?logo=openjdk&logoColor=FAF9F5)
+![Static Badge](https://img.shields.io/badge/SQLite-436584?logo=sqlite&logoColor=FAF9F5)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-436584?logo=postgresql&logoColor=FAF9F5)
+![Static Badge](https://img.shields.io/badge/Flutter-436584?logo=flutter&logoColor=FAF9F5)
+![Static Badge](https://img.shields.io/badge/Dart-436584?logo=dart&logoColor=FAF9F5)
+![Static Badge](https://img.shields.io/badge/Android-436584?logo=android&logoColor=FAF9F5)
+
+## Tools
+
+[![Static Badge](https://img.shields.io/badge/VSCodium-436584?logo=vscodium&logoColor=FAF9F5)](https://vscodium.com/)
+[![Static Badge](https://img.shields.io/badge/Neovim-436584?logo=neovim&logoColor=FAF9F5)](https://neovim.io/)
+
+## Operating System (OS)
+
+![Static Badge](https://img.shields.io/badge/Linux-436584?logo=linux&logoColor=FAF9F5)
+
+## Linux Distributions (Distro)
+
+[![Static Badge](https://img.shields.io/badge/Arch_Linux-436584?logo=archlinux&logoColor=FAF9F5)](https://archlinux.org/download/)
+[![Static Badge](https://img.shields.io/badge/Fedora-436584?logo=fedora&logoColor=FAF9F5)](https://fedoraproject.org/workstation/download)
+
+> _In everything you do, stay determined. Take enough time to learn the things you cannot build. Your effort today shapes your success tomorrow._
